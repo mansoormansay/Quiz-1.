@@ -1,0 +1,86 @@
+Computer Science Dpt
+
+Artificial intelligence
+Quiz 1.
+
+Name:		Mansoor Ahmed
+Class:		BS-CS 6th Semester
+Session:	2015 to 2019
+Roll No#:	(24)
+Teacher:	Dr. Imran Ali
+Date:		06 September 2018
+
+-----------------------------------------------------------------
+
+
+Q1. 		How to launch swi-prolog on command line?
+
+Answer:		%sudo apt-add-respository ppa:swi prolog/stable
+
+         	%sudo apt -get update
+         
+		%sudo apt - get install swi-prolog
+
+
+Q2.		What is the extension of a prolog Knowledge Base?
+Answer:		The extention of prolog knowladge base is (.pl)
+		(If there is no conflict)
+		because you do not use a conflicting application or the system does not force a unique relation between extension and application, use .pl.
+		(With a conflict)
+		choose .pro and use this extension for the files you want to load through your file manager. Use .pl for all other files for maximal portability.
+		reference (http://www.swi-prolog.org)
+
+
+
+Q3.		How to load a knowledge base in prolog?
+Answer:		Type the name of knowladge base such as (kb1.pl, kb2.pl, and kb3.pl)
+		
+
+Q4.		How to exit a prolog session?
+
+Answer:		To exit a prolog session by this command (halt/0.)
+
+
+Q5.		How to get help on a topic from within prolog?
+Annswer:	Action (h for help)
+
+
+Q6.		What is an atom?
+Answer: 	An atom is a general-purpose name with no inherent meaning. It is composed of a sequence of characters that is parsed by the Prolog reader as a single unit.
+
+
+Q7.		What is a term?
+
+Answer:		The generic name for all forms of Prolog data is "term". The data your program works with is all terms of one form or another.
+		reference (http://www.amzi.com)
+
+
+Q8.		What is functor?
+Answer:		The finite number of arguments that have synthetic units are called functors.
+
+
+
+Q9.		What are complex terms?
+Answer:		Complex terms are build out of a functor followed by a sequence of arguments. The arguments are put in ordinary brackets, separated by commas, and placed after the functor.
+		reference (http://cs.union.edu)
+
+Q10		What is predicate?
+Answer:		A Prolog program consists of predicate definitions. A predicate denotes a property or relationship between objects.
+		reference (www.inf.ed.ac.uk)
+
+
+Q11.		What is arity of predicate?
+Answer:		The arity of a relation (or predicate) is the dimension of the domain in the corresponding Cartesian product.
+
+Q12.		What is unification?
+Answer:		The way in which Prolog matches two terms is called unification.
+
+----------------------------------------------------------------------------------------------------
+
+
+
+End
+
+
+
+----------------------------------------------------------------------------------------------------
