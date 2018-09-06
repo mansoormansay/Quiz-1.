@@ -25,9 +25,9 @@ Answer:		%sudo apt-add-respository ppa:swi prolog/stable
 Q2.		What is the extension of a prolog Knowledge Base?
 Answer:		The extention of prolog knowladge base is (.pl)
 		(If there is no conflict)
-		because you do not use a conflicting application or the system does not force a unique relation between extension and application, use .pl.
+		because you do not use a conflicting application or the system does not force a unique relation between extension and 			application, use .pl.
 		(With a conflict)
-		choose .pro and use this extension for the files you want to load through your file manager. Use .pl for all other files for maximal portability.
+		choose .pro and use this extension for the files you want to load through your file manager. Use .pl for all other files 		 for maximal portability.
 		reference (http://www.swi-prolog.org)
 
 
@@ -46,7 +46,7 @@ Annswer:	Action (h for help)
 
 
 Q6.		What is an atom?
-Answer: 	An atom is a general-purpose name with no inherent meaning. It is composed of a sequence of characters that is parsed by the Prolog reader as a single unit.
+Answer: 	An atom is a general-purpose name with no inherent meaning. It is composed of a sequence of characters that is parsed by 		 the Prolog reader as a single unit.
 
 
 Q7.		What is a term?
@@ -61,7 +61,7 @@ Answer:		The finite number of arguments that have synthetic units are called fun
 
 
 Q9.		What are complex terms?
-Answer:		Complex terms are build out of a functor followed by a sequence of arguments. The arguments are put in ordinary brackets, separated by commas, and placed after the functor.
+Answer:		Complex terms are build out of a functor followed by a sequence of arguments. The arguments are put in ordinary 			brackets, separated by commas, and placed after the functor.
 		reference (http://cs.union.edu)
 
 Q10		What is predicate?
